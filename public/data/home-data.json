@@ -1,0 +1,24 @@
+{
+    "services": [
+        {
+            "title": "Professional Advice",
+            "logo": "https://cdn.prod.website-files.com/63f41cf27d88dd6d01723861/63f41cf27d88dd13fe723885_professional-advice.svg"
+        },
+        {
+            "title": "Free Quotes",
+            "logo": "https://cdn.prod.website-files.com/63f41cf27d88dd6d01723861/63f41cf27d88dd1e8f72388e_free-quotes.svg"
+        },
+        {
+            "title": "Locally Owned",
+            "logo": "https://cdn.prod.website-files.com/63f41cf27d88dd6d01723861/63f41cf27d88dd6c5172388f_locally-owned.svg"
+        },
+        {
+            "title": "Fully Insured",
+            "logo": "https://cdn.prod.website-files.com/63f41cf27d88dd6d01723861/63f41cf27d88dd066b723891_fully-insured.svg"
+        },
+        {
+            "title": "Safety First",
+            "logo": "https://cdn.prod.website-files.com/63f41cf27d88dd6d01723861/63f41cf27d88dd04b6723884_safety-first.svg"
+        }
+    ]
+}
